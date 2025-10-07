@@ -1,4 +1,4 @@
-# "diddy" - GitHub Profile README
+# "adam" 
 
 ## Introduction
 
@@ -6,7 +6,7 @@
 ```javascript
 const diddy = {
   fullName: "adam",
-  pronouns: "He" | "Him",
+  pronouns: "he" | "him",
   hobbies: ["sleeping", "basketball", "pc guy"],
   skills: ["HTML/CSS", "python idk lel"]
 }
@@ -29,12 +29,10 @@ Hey there! I'm "adam", a newer GitHub user with a passion for coding and creatin
 ## Projects Showcase
 
 ### Repositories
-- beautify-github-profile-macos
-- beautify-github-profile-ubuntu
-- beautify-github-profile-windowsaa
-- system-setup-scripts
-- java-tutorials
-
+- Windows-11-Remote-Desktop-Protocol
+- Windows-10-Remote-Desktop-Protocol
+- Ubuntu-Remote-Desktop-Protocol (doesnt work)
+- MacOS-Using-Ubuntu (also doesnt work)
 ### Most Starred Repo
 **[beautify-github-profile-windowsaa](https://github.com/windowsaa/beautify-github-profile-windowsaa)**
 Focuses on enhancing GitHub profiles.
