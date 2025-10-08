@@ -1,45 +1,51 @@
-# adam
 
-## Introduction
-welcome to my profile lel
-### Who am I?
-```javascript
-const diddy = {
-  fullName: "adam",
-  pronouns: "he" | "him",
-  hobbies: ["sleeping", "basketball", "pc guy"],
-  skills: ["HTML/CSS", "python idk lel"]
-}
-```
+I'm **Adam**. I break things, fix some, and leave others broken.
 
-### Overview
-Hey there! I'm "adam", a newer GitHub user with a passion for coding and creating tools and tutorials related to GitHub profile customization and system setups. In my journey on GitHub since June 2023, I've dabbled in various languages and operating systems like MacOS, Ubuntu, and Windows.
+[![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org)
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Languages
-- Python
-- HTML/CSS
+---
 
-### Tools
-- Git
-- GitHub API
-- Terminal
+## About
+Hi, I'm **Adam** — a PC tinkerer and system setup enthusiast.  
+I work with Windows and Linux, and sometimes try to make macOS run on hardware it shouldn’t. 
 
-## Projects Showcase
+- Windows and Linux power user  
+- HTML/CSS and light Python dev
+- 
+- Email: na u aint havin my email lel
 
-### Repositories
-- Windows-11-Remote-Desktop-Protocol
-- Windows-10-Remote-Desktop-Protocol
-- Ubuntu-Remote-Desktop-Protocol (doesnt work)
-- MacOS-Using-Ubuntu (also doesnt work)
-### Most Starred Repo
-**[beautify-github-profile-windowsaa](https://github.com/windowsaa/beautify-github-profile-windowsaa)**
-Focuses on enhancing GitHub profiles.
+---
+
+## Projects
+- [Windows-11-Remote-Desktop-Protocol](https://github.com/windowsaa/Windows-11-Remote-Desktop-Protocol)
+- [Windows-10-Remote-Desktop-Protocol](https://github.com/windowsaa/Windows-10-Remote-Desktop-Protocol)
+- [Ubuntu-Remote-Desktop-Protocol](https://github.com/windowsaa/Ubuntu-Remote-Desktop-Protocol) *(not working, not fixing it)*
+- [MacOS-Using-Ubuntu](https://github.com/windowsaa/MacOS-Using-Ubuntu) *(also not working, won’t be fixed)*
+
+---
+
+## Featured
+[beautify-github-profile-windowsaa](https://github.com/windowsaa/beautify-github-profile-windowsaa)  
+
+---
+
+## But... Where's the Code Gone?
+You’ll find it all here: [github.com/windowsaa](https://github.com/windowsaa)  
+and the full repo list at [github.com/windowsaa?tab=repositories](https://github.com/windowsaa?tab=repositories)
+
+---
 
 ## GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=windowsaa&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windowsaa&layout=compact&theme=transparent)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=windowsaa)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windowsaa)
-[![trophy](https://github-profile-trophy.vercel.app/?username=windowsaa)](https://github.com/windowsaa)
-[![GitHub Streak](https://streak-stats.herokuapp.com/?user=windowsaa)](https://git.io/streak-stats)
+---
 
-![Visitor Count](https://profile-counter.glitch.me/windowsaa/count.svg)
+Contact me by opening an issue or starring a repo if you want to collaborate.  
+`;
