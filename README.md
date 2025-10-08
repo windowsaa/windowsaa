@@ -1,13 +1,16 @@
+const readmeMd = `# Technophobic Technologist 
 
 I'm **Adam**. I break things, fix some, and leave others broken.
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org)
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/71e217ee2498d550826ff82ce068144d6502d02a9519dd34e6c00292fcd53ae0/68747470733a2f2f7777772e6b65726e656c2e6f72672f7468656d652f696d616765732f6c6f676f732f66617669636f6e2e706e67" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -16,10 +19,7 @@ Hi, I'm **Adam** — a PC tinkerer and system setup enthusiast.
 I work with Windows and Linux, and sometimes try to make macOS run on hardware it shouldn’t. 
 
 - Windows and Linux power user  
-- HTML/CSS and light Python dev
-- 
-- Email: na u aint havin my email lel
-
+- HTML/CSS and light Python dev 
 ---
 
 ## Projects
@@ -31,7 +31,7 @@ I work with Windows and Linux, and sometimes try to make macOS run on hardware i
 ---
 
 ## Featured
-[beautify-github-profile-windowsaa](https://github.com/windowsaa/beautify-github-profile-windowsaa)  
+[beautify-github-profile-windowsaa](https://github.com/windowsaa/beautify-github-profile-windowsaa) 
 
 ---
 
@@ -44,8 +44,3 @@ and the full repo list at [github.com/windowsaa?tab=repositories](https://github
 ## GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=windowsaa&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windowsaa&layout=compact&theme=transparent)
-
----
-
-Contact me by opening an issue or starring a repo if you want to collaborate.  
-`;
