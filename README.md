@@ -1,5 +1,4 @@
-const readmeMd = `# Technophobic Technologist 
-
+## Info
 I'm **Adam**. I break things, fix some, and leave others broken.
 
 <p align="left">
