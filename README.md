@@ -14,7 +14,7 @@ I'm **Adam**. I break things, fix some, and leave others broken.
 ---
 
 ## About
-Hi, I'm **Adam** — a PC tinkerer and system setup enthusiast.  
+Hi, I'm **Adam** a PC tinkerer and system setup enthusiast.  
 I work with Windows and Linux, and sometimes try to make macOS run on hardware it shouldn’t. 
 
 - Windows and Linux power user  
